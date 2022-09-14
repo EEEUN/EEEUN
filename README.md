@@ -1,6 +1,6 @@
 <div align=center> 
 
-![header](https://capsule-render.vercel.app/api?type=slice&height=300&text=EEEUN%20&desc=Eun%20Seo%20Lee&color=auto) <br>
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=EEEUN%20&desc=Eun%20Seo%20Lee&color=auto) <br>
 
 반갑습니다!👋 <br>
 제 이름은 이은서이고, 닉네임은 EEEUN입니다. <br>
