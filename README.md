@@ -11,7 +11,6 @@
 ## 😊 About Me 😊 <br>
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/> eeeun0929@gmail.com <br>
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://eeeun.tistory.com/ <br>
-<img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/> https://velog.io/@eeeun <br><br><br>
 
 
 ## 🛠 Tech Stack 🛠 <br>
